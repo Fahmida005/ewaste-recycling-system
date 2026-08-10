@@ -1,4 +1,6 @@
+# Initial Project Upload
 # ewaste-recycling-system
+
 erDiagram
     USERS ||--o{ REQUESTS : places
     USERS ||--|| REWARDS : earns
