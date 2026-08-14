@@ -101,4 +101,5 @@ erDiagram
 - `rewards` – Stores user reward points.
 
 - ## Video Demonstration
-[Click here to watch the video](https://youtu.be/YOUR_VIDEO_LINK)
+https://youtu.be/ZAVhWILHXpQ?si=jiA6AxA_CfLqDG5R
+https://drive.google.com/file/d/1qFn147Fr7eKPWllGs3JaJFPABRHR4ius/view?usp=drivesdk
