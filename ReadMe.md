@@ -36,7 +36,7 @@ The E‑Waste Recycling Management System is designed to help users submit elect
 - **Dashboard** – Admin dashboard shows summary statistics (total requests, pending, users, centers).
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, Bootstrap 5, Font Awesome
+- **Frontend:** HTML, CSS, Bootstrap 
 - **Backend:** PHP (PDO, Sessions)
 - **Database:** MySQL
 - **Server:** Apache (XAMPP)
